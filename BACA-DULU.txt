@@ -1,33 +1,47 @@
-RAK PDF — TOOLBOX KATALOG DAN PEMBACA
+RAK PDF — UPDATE INTEGRASI BACA & SINKRONISASI
 
-Pasang di GitHub Pages
-1. Ekstrak ZIP. Masukkan isinya ke branch yang dipakai Pages. Untuk toolbox
-   di dalam situs yang sudah ada, letakkan isi ZIP di subfolder rak-pdf/.
-2. Pertahankan struktur data/ dan vendor/. Untuk repo baru, buka Settings →
-   Pages → Deploy from a branch, pilih main dan / (root).
-3. Buka alamat Pages. Masukkan link halaman katalog. Daftar langsung muncul
-   dan pencarian judul serta filter kategori bisa dipakai bila dibutuhkan.
-   Jalankan melalui situs HTTPS agar modul dan pembaca PDF bisa dimuat.
+Pasang pada repo GitHub Pages khusus Rak PDF (root branch main).
+1. Ekstrak semua isi ZIP, termasuk folder tersembunyi .github dan .nojekyll.
+   Ganti file versi lama; pertahankan struktur data/ dan vendor/.
+2. Commit dan push ke main. Di Settings > Pages, pilih Source: GitHub Actions
+   (bukan Deploy from a branch). Workflow Rak PDF - sync and deploy akan
+   menerbitkan web. Untuk repo dengan situs lain, jangan pakai workflow ini
+   tanpa menyesuaikan folder publikasi karena workflow menerbitkan Rak PDF
+   sebagai keseluruhan situs Pages.
+3. Di Actions > Rak PDF - sync and deploy > Run workflow, gunakan main.
+   Limit default 40 halaman per eksekusi; maksimal 150. Workflow juga
+   berjalan setiap hari dan saat perubahan file aplikasi di-push.
+   Jika pengaturan repo melarang bot menulis main, berikan izin yang sesuai
+   atau tinjau proteksi branch. Jangan menonaktifkan proteksi tanpa alasan.
+4. Lihat log Refresh public links. Buku Untuk Suamiku diprioritaskan pada
+   sinkronisasi pertama. Setelah deploy, muat ulang halaman web.
 
-Sumber katalog
-- https://ebooksunnah.com/ memuat salinan katalog gratis tanggal
-  19 November 2026. Server sumber membatasi permintaan dari browser lintas
-  situs, sehingga salinan ini tidak memperbarui dirinya saat dibuka.
-- Situs lain bisa memakai halaman HTML berisi tautan PDF, OPDS Atom/JSON,
-  atau daftar JSON publik. Situs harus mengizinkan CORS. Jika ada link next,
-  toolbox membaca hingga 25 halaman dari sumber yang sama. Kategori bisa
-  diambil dari heading HTML, atribut data-category, atau metadata feed.
-- Daftar JSON juga didukung. Bentuknya {"name":"Katalog","books":[
-  {"title":"Judul","pdf":"https://contoh.id/file.pdf","categories":["Umum"]}
-  ]}. Gunakan source untuk halaman resmi buku yang memiliki pilihan akses,
-  misalnya kalau PDF-nya tidak tersedia langsung.
+Cara kerja
+- Katalog awal tetap berisi 4.178 judul dari 19 November 2026. Belum ada URL
+  baca atau PDF yang terverifikasi di dalam snapshot awal tersebut.
+- Workflow memeriksa link buku terbaru di beranda (kategori yang dikenali)
+  serta tautan PDF/reader publik dari halaman detail. Jika tombol Baca
+  memakai JavaScript, browser mencoba klik normal pada tombol publik itu.
+  Tidak menggunakan akun, token rahasia, proxy CORS atau menyalin file PDF.
+- Sinkronisasi bertahap, bukan seluruh katalog sekaligus. Tautan lama tetap
+  disimpan jika sumber gagal diakses; situs dapat mengubah atau mencabut URL.
+  Tidak menjamin semua buku terdeteksi, terutama yang memerlukan login,
+  URL sementara, domain eksternal, atau memakai mekanisme reader lain.
+- Jika URL PDF tersedia dan CORS mengizinkan, buku dibaca langsung lewat
+  PDF.js. Halaman terakhir tersimpan lokal. Jika reader publik tersedia,
+  reader ditampilkan dalam iframe. Bila PDF gagal dimuat, tombol fallback
+  menawarkan penyematan. Untuk URL belum sinkron, pengguna dapat mencoba
+  menampilkan halaman detail di iframe dan menekan Baca di sana.
+- Situs sumber dapat menolak iframe (CSP/X-Frame-Options) maupun CORS.
+  Jika demikian, gunakan halaman resmi atau PDF yang diperoleh secara sah
+  dan dibuka dari HP. Tidak ada jaminan iframe/PDF lintas origin pada Safari.
+- Katalog situs lain tetap mendukung link PDF langsung dan feed OPDS/JSON
+  dengan CORS. Contoh JSON: {"name":"Katalog","books":[{"title":"Judul",
+  "pdf":"https://contoh.id/file.pdf","categories":["Umum"]}]}.
+- Mesin PDF.js 5.4.624, Apache-2.0. Lisensi di vendor/LICENSE.
 
-Membaca
-Pilih buku untuk membaca PDF yang sumbernya mengizinkan akses langsung.
-Pencarian isi menampilkan halaman yang cocok. PDF hasil scan perlu OCR
-sebelum teksnya dapat dicari. Bila sumber meminta akses di situs resmi,
-buka sumber. PDF yang sudah diunduh bisa dipilih melalui Baca PDF dari HP.
-File lokal diproses di browser dan tetap berada di perangkat.
-
-Mesin PDF
-Mozilla PDF.js 5.4.624, Apache-2.0. Lisensi terlampir di vendor/LICENSE.
+Validasi paket
+- 3 tes Python resolver dan pemeriksaan sintaks JS lulus.
+- Browser smoke test tidak dapat dijalankan karena lingkungan memblokir
+  navigasi Chromium. HTML mentah sumber juga tidak dapat diakses dari sini.
+  Tautan aktual tombol Baca dan eksekusi workflow GitHub belum tervalidasi.

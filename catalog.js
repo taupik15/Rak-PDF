@@ -17,10 +17,11 @@ function labels(values) {
 }
 function book(item, base) {
   const pdf = publicUrl(item.pdf, base);
-  const source = publicUrl(item.source, base) || pdf;
+  const reader = publicUrl(item.reader, base);
+  const source = publicUrl(item.source, base) || pdf || reader;
   if (!source || !text(item.title)) return null;
   return {title: text(item.title), categories: labels(Array.isArray(item.categories) ? item.categories : []),
-    pdf: pdf?.href || '', source: source.href};
+    pdf: pdf?.href || '', reader: reader?.href || '', source: source.href};
 }
 function pdfLink(a, base) {
   const href = publicUrl(a.href, base);
@@ -108,9 +109,12 @@ function merge(target, items, base) {
   for (const item of items) {
     const result = book(item,base);
     if (!result) continue;
-    const key = result.pdf || result.source;
+    const key = result.source;
     const previous = target.get(key);
-    if (previous) previous.categories = labels([...previous.categories,...result.categories]);
+    if (previous) {
+      previous.categories = labels([...previous.categories,...result.categories]);
+      previous.pdf ||= result.pdf; previous.reader ||= result.reader;
+    }
     else target.set(key,result);
   }
 }

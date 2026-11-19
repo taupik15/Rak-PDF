@@ -53,8 +53,12 @@
     </div>
     <p id="reader-status" class="notice" role="status"></p>
     <div id="find-results" hidden></div>
+    <div id="embedded-reader" hidden>
+      <p class="muted" id="embed-note">Pembaca sumber ditampilkan di dalam Rak PDF jika situs mengizinkan.</p>
+      <iframe id="source-frame" title="Pembaca ebook sumber" referrerpolicy="no-referrer" sandbox="allow-scripts allow-same-origin allow-forms allow-downloads"></iframe>
+    </div>
     <div id="paper" class="paper" hidden><canvas id="pdf-canvas" aria-label="Halaman dokumen"></canvas></div>
-    <footer class="reader-footer"><a id="official" target="_blank" rel="noopener noreferrer">Buka sumber ↗</a><button id="open-local" type="button">Baca PDF dari HP</button><input id="local-file" type="file" accept=".pdf,application/pdf" hidden></footer>
+    <footer class="reader-footer"><button id="try-embed" type="button" hidden>Tampilkan di Rak PDF</button><a id="official" target="_blank" rel="noopener noreferrer">Buka sumber ↗</a><button id="open-local" type="button">Baca PDF dari HP</button><input id="local-file" type="file" accept=".pdf,application/pdf" hidden></footer>
   </div>
 </dialog>
 <script type="module" src="app.js"></script>

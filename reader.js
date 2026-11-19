@@ -3,10 +3,37 @@ const normalize = value => value.toLowerCase().normalize('NFKD').replace(/\p{M}/
 const dialog = el('reader');
 let book, task, pdf, drawing, current=1, session=0, paint=0, searching=0;
 let textCache = new Map();
+let embedUrl = null;
+let progressKey = null;
 
+function resetEmbed() {
+  el('embedded-reader').hidden=true;
+  el('source-frame').removeAttribute('src');
+  el('try-embed').hidden=true;
+  embedUrl=null;
+}
+function offerEmbed(url, label='Tampilkan di Rak PDF') {
+  if(!url) return;
+  embedUrl=url;
+  el('try-embed').textContent=label;
+  el('try-embed').hidden=false;
+}
+function showEmbed(url, detail=false) {
+  if(!url || !dialog.open) return;
+  el('embedded-reader').hidden=false;
+  el('source-frame').src=url;
+  el('embed-note').textContent=detail
+    ? 'Jika halaman tampil, pilih Baca di dalamnya. Situs sumber dapat memblokir penyematan.'
+    : 'Pembaca sumber tertanam. Jika kosong atau diblokir, gunakan tautan sumber atau PDF dari HP.';
+  el('try-embed').hidden=true;
+  status('');
+}
+el('try-embed').onclick=()=>showEmbed(embedUrl,embedUrl===book?.source&&!book?.reader&&!book?.pdf);
 function status(message) {el('reader-status').textContent=message}
 function clearDocument() {
   ++session; ++paint; ++searching;
+  resetEmbed();
+  progressKey=null;
   drawing?.cancel();
   task?.destroy().catch(()=>{});
   drawing=task=pdf=null;
@@ -26,13 +53,18 @@ export function openReader(entry) {
   el('reader-title').textContent=entry.title;
   el('reader-label').textContent=entry.categories.join(' · ');
   el('official').href=entry.source;
-  el('official').textContent=entry.pdf?'Buka PDF sumber ↗':'Buka halaman buku ↗';
+  el('official').textContent='Buka halaman resmi ↗';
   if (!dialog.open) dialog.showModal();
-  if (entry.pdf) loadDocument({url:entry.pdf});
-  else status('Buku ini diakses lewat halaman resminya. Jika lo sudah punya file PDF, buka dari HP untuk membaca dan mencari di sini.');
+  if (entry.pdf) loadDocument({url:entry.pdf}, entry.reader || entry.pdf, entry.source);
+  else if (entry.reader) showEmbed(entry.reader);
+  else {
+    status('Tautan baca buku ini belum ditemukan saat sinkronisasi. Coba tampilkan halaman sumber di dalam Rak PDF, atau buka PDF dari HP.');
+    offerEmbed(entry.source, 'Coba baca di dalam Rak PDF');
+  }
 }
-async function loadDocument(source) {
+async function loadDocument(source, fallback=null, key=null) {
   const operation=clearDocument();
+  progressKey=key;
   status('Membuka PDF…');
   try {
     const engine=await import('./vendor/legacy/build/pdf.min.mjs');
@@ -50,15 +82,20 @@ async function loadDocument(source) {
     el('reader-tools').hidden=false;
     el('pdf-pages').textContent='/ '+pdf.numPages;
     el('pdf-page').max=pdf.numPages;
-    await showPage(1);
+    let saved=1;
+    if(progressKey) try {saved=Number(localStorage.getItem('rak-pdf-progress:'+progressKey))||1;} catch {}
+    await showPage(saved);
   } catch {
-    if (operation===session) status('PDF gagal dibuka di pembaca. Coba buka sumber atau pilih file PDF yang sudah diunduh.');
+    if (operation===session) {
+      status('PDF tidak dapat dimuat langsung. Server mungkin membatasi akses lintas situs.');
+      if(fallback) offerEmbed(fallback, 'Coba pembaca sumber di Rak PDF');
+    }
   }
 }
 async function showPage(number) {
   const active=pdf;
   if(!active) return;
-  current=Math.max(1,Math.min(active.numPages,number));
+  current=Math.max(1,Math.min(active.numPages,Math.floor(number)||1));
   const position=++paint;
   el('pdf-page').value=current;
   el('pdf-prev').disabled=current===1;
@@ -83,7 +120,10 @@ async function showPage(number) {
     canvas.setAttribute('aria-label','Halaman '+current);
     drawing=page.render({canvas,viewport,transform:ratio===1?null:[ratio,0,0,ratio,0,0]});
     await drawing.promise;
-    if(position===paint) status('');
+    if(position===paint) {
+      status('');
+      if(progressKey) try {localStorage.setItem('rak-pdf-progress:'+progressKey,String(current));} catch {}
+    }
   } catch(error) {
     if(position===paint && error.name!=='RenderingCancelledException') status('Halaman PDF ini gagal ditampilkan.');
   }

@@ -24,7 +24,7 @@ function render() {
     const title=document.createElement('strong');
     title.textContent=book.title;
     const action=document.createElement('small');
-    action.textContent=book.pdf ? 'Baca PDF ↗' : 'Lihat buku ↗';
+    action.textContent=book.pdf || book.reader ? 'Baca' : 'Baca · tautan belum sinkron';
     button.append(title,action);
     button.onclick=()=>openReader(book);
     return button;
@@ -53,7 +53,8 @@ async function importBooks(scroll=true) {
     if (operation.signal.aborted) return;
     entries=data.books.map(b=>({...b,search:normalize([b.title,...b.categories].join(' '))}));
     el('library-title').textContent=data.name;
-    el('library-meta').textContent=data.snapshot ? 'Salinan katalog publik · '+data.snapshot+(data.books.every(b=>!b.pdf)?' · baca melalui situs sumber':'')
+    const ready=data.books.filter(b=>b.pdf||b.reader).length;
+    el('library-meta').textContent=data.snapshot ? 'Katalog publik · '+(data.last_catalog_check||data.snapshot)+' · '+ready.toLocaleString('id-ID')+' / '+data.books.length.toLocaleString('id-ID')+' tautan baca tersedia'
       : data.limited ? 'Menampilkan 25 halaman pertama katalog.' : 'Katalog publik';
     const options=[...new Set(entries.flatMap(b=>b.categories))].sort((a,b)=>a.localeCompare(b,'id'));
     el('category').replaceChildren(new Option('Semua kategori',''),...options.map(c=>new Option(c,c)));
