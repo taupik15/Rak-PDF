@@ -1,0 +1,33 @@
+RAK PDF — TOOLBOX KATALOG DAN PEMBACA
+
+Pasang di GitHub Pages
+1. Ekstrak ZIP. Masukkan isinya ke branch yang dipakai Pages. Untuk toolbox
+   di dalam situs yang sudah ada, letakkan isi ZIP di subfolder rak-pdf/.
+2. Pertahankan struktur data/ dan vendor/. Untuk repo baru, buka Settings →
+   Pages → Deploy from a branch, pilih main dan / (root).
+3. Buka alamat Pages. Masukkan link halaman katalog. Daftar langsung muncul
+   dan pencarian judul serta filter kategori bisa dipakai bila dibutuhkan.
+   Jalankan melalui situs HTTPS agar modul dan pembaca PDF bisa dimuat.
+
+Sumber katalog
+- https://ebooksunnah.com/ memuat salinan katalog gratis tanggal
+  19 November 2026. Server sumber membatasi permintaan dari browser lintas
+  situs, sehingga salinan ini tidak memperbarui dirinya saat dibuka.
+- Situs lain bisa memakai halaman HTML berisi tautan PDF, OPDS Atom/JSON,
+  atau daftar JSON publik. Situs harus mengizinkan CORS. Jika ada link next,
+  toolbox membaca hingga 25 halaman dari sumber yang sama. Kategori bisa
+  diambil dari heading HTML, atribut data-category, atau metadata feed.
+- Daftar JSON juga didukung. Bentuknya {"name":"Katalog","books":[
+  {"title":"Judul","pdf":"https://contoh.id/file.pdf","categories":["Umum"]}
+  ]}. Gunakan source untuk halaman resmi buku yang memiliki pilihan akses,
+  misalnya kalau PDF-nya tidak tersedia langsung.
+
+Membaca
+Pilih buku untuk membaca PDF yang sumbernya mengizinkan akses langsung.
+Pencarian isi menampilkan halaman yang cocok. PDF hasil scan perlu OCR
+sebelum teksnya dapat dicari. Bila sumber meminta akses di situs resmi,
+buka sumber. PDF yang sudah diunduh bisa dipilih melalui Baca PDF dari HP.
+File lokal diproses di browser dan tetap berada di perangkat.
+
+Mesin PDF
+Mozilla PDF.js 5.4.624, Apache-2.0. Lisensi terlampir di vendor/LICENSE.

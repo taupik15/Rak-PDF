@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f6f2e8">
+<title>Rak PDF</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="./" aria-label="Rak PDF, beranda"><span class="brand-icon" aria-hidden="true">▤</span> Rak PDF</a>
+  <span class="top-note">Katalog &amp; pembaca PDF</span>
+</header>
+<main>
+  <section class="intro">
+    <h1>Satu tautan.<br>Satu rak buku.</h1>
+    <p>Tempel alamat katalog untuk menampilkan buku dan kategorinya. Pilih judul untuk mulai baca.</p>
+  </section>
+  <form id="import-form">
+    <label for="source">Alamat katalog</label>
+    <div class="url-row">
+      <input id="source" type="text" inputmode="url" autocomplete="url" placeholder="https://ebooksunnah.com/" required>
+      <button class="primary" type="submit">Muat katalog <span aria-hidden="true">↗</span></button>
+    </div>
+    <button class="example" type="button" id="example">Muat Ebook Sunnah</button>
+  </form>
+  <p id="import-status" class="notice" role="status" hidden></p>
+  <section id="library" aria-labelledby="library-title" hidden>
+    <div class="library-head">
+      <div><h2 id="library-title"></h2><p id="library-meta" class="muted"></p></div>
+      <div class="library-controls">
+        <label for="book-search">Cari buku<input type="search" id="book-search" placeholder="Ketik judul…"></label>
+        <label for="category">Kategori<select id="category"></select></label>
+      </div>
+    </div>
+    <p id="results-count" class="muted" role="status"></p>
+    <div class="books" id="books"></div>
+    <nav id="pagination" aria-label="Halaman katalog">
+      <button id="prev" type="button">← Sebelumnya</button><span id="page-count"></span><button id="next" type="button">Berikutnya →</button>
+    </nav>
+  </section>
+</main>
+<dialog id="reader" aria-labelledby="reader-title">
+  <div class="reader-frame">
+    <header class="reader-header">
+      <div><p id="reader-label" class="muted"></p><h2 id="reader-title"></h2></div>
+      <button id="reader-close" type="button" aria-label="Tutup pembaca">Tutup</button>
+    </header>
+    <div class="reader-tools" id="reader-tools" hidden>
+      <div class="reader-nav"><button id="pdf-prev" aria-label="Halaman PDF sebelumnya">←</button><label for="pdf-page" class="sr-only">Halaman PDF</label><input id="pdf-page" type="number" min="1"><span id="pdf-pages"></span><button id="pdf-next" aria-label="Halaman PDF berikutnya">→</button></div>
+      <form id="find-form"><label for="pdf-search" class="sr-only">Cari dalam PDF</label><input id="pdf-search" type="search" placeholder="Cari dalam PDF…" required><button>Cari</button></form>
+    </div>
+    <p id="reader-status" class="notice" role="status"></p>
+    <div id="find-results" hidden></div>
+    <div id="paper" class="paper" hidden><canvas id="pdf-canvas" aria-label="Halaman dokumen"></canvas></div>
+    <footer class="reader-footer"><a id="official" target="_blank" rel="noopener noreferrer">Buka sumber ↗</a><button id="open-local" type="button">Baca PDF dari HP</button><input id="local-file" type="file" accept=".pdf,application/pdf" hidden></footer>
+  </div>
+</dialog>
+<script type="module" src="app.js"></script>
+</body>
+</html>
