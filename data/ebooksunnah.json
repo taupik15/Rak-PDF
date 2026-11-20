@@ -3,6 +3,87 @@
   "snapshot": "19 November 2026",
   "books": [
     {
+      "title": "Agar Jalanmu Tidak Kembali ke Belakang (Istiqamah di Atas Hijrah)",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/agar-jalanmu-tidak-kembali-ke-belakang-istiqamah-di-atas-hijrah",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
+      "title": "70 Faedah Ramadhan",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/70-faedah-ramadhan",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Kaidah Di dalam Dzikir Dan Doa",
+      "categories": [
+        "Dzikir & Do'a"
+      ],
+      "source": "https://ebooksunnah.com/dzikir-do-a/kaidah-di-dalam-dzikir-dan-doa",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Berhentilah Saudaraku !",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/berhentilah-saudaraku",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
+      "title": "15 Petunjuk Menguatkan Iman",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/15-petunjuk-menguatkan-iman",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Mengenal Ummahatul Mukminin",
+      "categories": [
+        "Sirah Nabawiyah"
+      ],
+      "source": "https://ebooksunnah.com/sirah-nabawiyah/mengenal-ummahatul-mukminin",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Jangan Takut Belajar Bahasa Arab",
+      "categories": [
+        "Tholabul Ilmi"
+      ],
+      "source": "https://ebooksunnah.com/tholabul-ilmi/jangan-takut-belajar-bahasa-arab",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Dasar Ilmu Logika dari Cahaya Wahyu",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/dasar-ilmu-logika-dari-cahaya-wahyu",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Raja-raja di Surga",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/raja-raja-di-surga",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
+    },
+    {
       "id": 4242,
       "title": "Kedudukan Empat Imam: Abu Hanifah, Malik, Syafi’i, dan Ahmad",
       "categories": [
@@ -851,7 +932,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-06-maalim-at-tanzil-fi-tafsir-al-quran"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-06-maalim-at-tanzil-fi-tafsir-al-quran",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4161,
@@ -859,7 +942,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-05-maalim-at-tanzil-fi-tafsir-al-quran"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-05-maalim-at-tanzil-fi-tafsir-al-quran",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4160,
@@ -867,7 +952,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-04-maalim-at-tanzil-fi-tafsir-al-quran"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-04-maalim-at-tanzil-fi-tafsir-al-quran",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4159,
@@ -875,7 +962,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-03-maalim-at-tanzil-fi-tafsir-al-quran"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-03-maalim-at-tanzil-fi-tafsir-al-quran",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4158,
@@ -883,7 +972,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-02-maalim-at-tanzil-fi-tafsir-al-quran"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-02-maalim-at-tanzil-fi-tafsir-al-quran",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4157,
@@ -891,7 +982,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-01-maalim-at-tanzil-fi-tafsir-al-quran"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-al-baghawi-01-maalim-at-tanzil-fi-tafsir-al-quran",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4156,
@@ -899,7 +992,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/bidayatul-abid-wa-kifayatuz-zahid-permulaan-bagi-ahli-ibadah-dan-kecukupan-bagi-orang-yang-zuhud"
+      "source": "https://ebooksunnah.com/fiqih/bidayatul-abid-wa-kifayatuz-zahid-permulaan-bagi-ahli-ibadah-dan-kecukupan-bagi-orang-yang-zuhud",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4155,
@@ -907,7 +1002,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/bekal-tidur-hafshah-dzikir-dan-adab-sebelum-tidur"
+      "source": "https://ebooksunnah.com/anak/bekal-tidur-hafshah-dzikir-dan-adab-sebelum-tidur",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4154,
@@ -915,7 +1012,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/merantaulah"
+      "source": "https://ebooksunnah.com/dakwah/merantaulah",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4153,
@@ -923,7 +1022,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/at-tibyan-tentang-macam-macam-sumpah-dalam-al-quran"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/at-tibyan-tentang-macam-macam-sumpah-dalam-al-quran",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4152,
@@ -931,7 +1032,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/jangan-biarkan-mushafmu-berdebu"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/jangan-biarkan-mushafmu-berdebu",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4151,
@@ -939,7 +1042,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/menyelami-samudra-hakikat-kalimat-syahadat"
+      "source": "https://ebooksunnah.com/aqidah/menyelami-samudra-hakikat-kalimat-syahadat",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4150,
@@ -947,7 +1052,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/prinsip-prinsip-aqidah-ahli-sunnah-wal-jamaah-penjelasan-kitab-ushul-sunnah-karya-imam-ahmad-bin-hanbal-jilid-2"
+      "source": "https://ebooksunnah.com/aqidah/prinsip-prinsip-aqidah-ahli-sunnah-wal-jamaah-penjelasan-kitab-ushul-sunnah-karya-imam-ahmad-bin-hanbal-jilid-2",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4149,
@@ -955,7 +1062,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/prinsip-prinsip-aqidah-ahli-sunnah-wal-jamaah-penjelasan-kitab-ushul-sunnah-karya-imam-ahmad-bin-hanbal-jilid-1"
+      "source": "https://ebooksunnah.com/aqidah/prinsip-prinsip-aqidah-ahli-sunnah-wal-jamaah-penjelasan-kitab-ushul-sunnah-karya-imam-ahmad-bin-hanbal-jilid-1",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4148,
@@ -964,7 +1073,9 @@
         "Tazkiyatun Nafs",
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/tazkiyatun-nafs/pulanglah-wahai-hati"
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/pulanglah-wahai-hati",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4147,
@@ -972,7 +1083,9 @@
       "categories": [
         "Muslimah & Keluarga"
       ],
-      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/pilar-penting-dalam-pendidikan-anak"
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/pilar-penting-dalam-pendidikan-anak",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4146,
@@ -980,7 +1093,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/seni-menunggang-kuda"
+      "source": "https://ebooksunnah.com/dakwah/seni-menunggang-kuda",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4145,
@@ -988,7 +1103,9 @@
       "categories": [
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/al-quran-al-karim/penjelasan-tentang-etika-para-pengemban-al-quran"
+      "source": "https://ebooksunnah.com/al-quran-al-karim/penjelasan-tentang-etika-para-pengemban-al-quran",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4144,
@@ -996,7 +1113,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/kunci-memahami-nama-dan-sifat-allah"
+      "source": "https://ebooksunnah.com/aqidah/kunci-memahami-nama-dan-sifat-allah",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4143,
@@ -1004,7 +1123,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/fikih-shalat-sunnah"
+      "source": "https://ebooksunnah.com/fiqih/fikih-shalat-sunnah",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4142,
@@ -1012,7 +1133,9 @@
       "categories": [
         "Muslimah & Keluarga"
       ],
-      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/jurus-jitu-mendidik-anak"
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/jurus-jitu-mendidik-anak",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4141,
@@ -1020,7 +1143,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-kunci-menjaga-ukhuwah-di-atas-sunnah"
+      "source": "https://ebooksunnah.com/dakwah/3-kunci-menjaga-ukhuwah-di-atas-sunnah",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4140,
@@ -1028,7 +1153,9 @@
       "categories": [
         "Dzikir & Do'a"
       ],
-      "source": "https://ebooksunnah.com/dzikir-do-a/al-baqiyat-ash-shalihat-zikir-zikir-yang-kekal-kebaikannya-setelah-salat"
+      "source": "https://ebooksunnah.com/dzikir-do-a/al-baqiyat-ash-shalihat-zikir-zikir-yang-kekal-kebaikannya-setelah-salat",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4139,
@@ -1036,7 +1163,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/fahri-si-pembawa-salam-belajar-menebarkan-salam-sesuai-sunnah"
+      "source": "https://ebooksunnah.com/anak/fahri-si-pembawa-salam-belajar-menebarkan-salam-sesuai-sunnah",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4138,
@@ -1044,7 +1173,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-bentuk-penyimpangan-dalam-memahami-agama"
+      "source": "https://ebooksunnah.com/dakwah/3-bentuk-penyimpangan-dalam-memahami-agama",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4137,
@@ -1052,7 +1183,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/meraih-neraka-lewat-arena-tinju-mma-ufc"
+      "source": "https://ebooksunnah.com/dakwah/meraih-neraka-lewat-arena-tinju-mma-ufc",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4136,
@@ -1060,7 +1193,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/al-qaul-as-sadid-syarh-kitab-at-tauhid"
+      "source": "https://ebooksunnah.com/aqidah/al-qaul-as-sadid-syarh-kitab-at-tauhid",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4135,
@@ -1069,7 +1204,9 @@
         "Aqidah",
         "Tazkiyatun Nafs"
       ],
-      "source": "https://ebooksunnah.com/aqidah/zuhud-dan-kelembutan-hati"
+      "source": "https://ebooksunnah.com/aqidah/zuhud-dan-kelembutan-hati",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4134,
@@ -1077,7 +1214,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/petunjuk-bagi-orang-orang-yang-bingung-dalam-menjawab-sanggahan-orang-orang-yahudi-dan-nasrani"
+      "source": "https://ebooksunnah.com/aqidah/petunjuk-bagi-orang-orang-yang-bingung-dalam-menjawab-sanggahan-orang-orang-yahudi-dan-nasrani",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4133,
@@ -1087,7 +1226,9 @@
         "Tazkiyatun Nafs",
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/jalan-dua-hijrah-dan-pintu-dua-kebahagiaan"
+      "source": "https://ebooksunnah.com/aqidah/jalan-dua-hijrah-dan-pintu-dua-kebahagiaan",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4132,
@@ -1095,7 +1236,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/surat-untuk-guru-laki-laki-dan-perempuan"
+      "source": "https://ebooksunnah.com/dakwah/surat-untuk-guru-laki-laki-dan-perempuan",
+      "checked_at": "2026-11-20",
+      "read_status": "not-found"
     },
     {
       "id": 4131,
@@ -34444,6 +34587,6 @@
       "source": "https://ebooksunnah.com/fiqih/e-book-ramadhan-bersama-nabi"
     }
   ],
-  "last_catalog_check": "2026-11-19",
-  "last_link_sync": "2026-11-19"
+  "last_catalog_check": "2026-11-20",
+  "last_link_sync": "2026-11-20"
 }
