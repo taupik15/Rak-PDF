@@ -3,6 +3,186 @@
   "snapshot": "19 November 2026",
   "books": [
     {
+      "title": "Ringkasan Tadzkiratus Sami' wal Mutakallim",
+      "categories": [
+        "Tholabul Ilmi"
+      ],
+      "source": "https://ebooksunnah.com/tholabul-ilmi/ringkasan-tadzkiratus-sami-wal-mutakallim",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Mutiara Faedah dari Kisah Pertemuan Nabi Musa dengan Nabi Khidir",
+      "categories": [
+        "Tarikh"
+      ],
+      "source": "https://ebooksunnah.com/tarikh/mutiara-faedah-dari-kisah-pertemuan-nabi-musa-dengan-nabi-khidir",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Permulaan Di Dalam Masalah Aqidah (Terjemahan Al Bidayaah fil Aqidaah)",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/permulaan-di-dalam-masalah-aqidah-terjemahan-al-bidayaah-fil-aqidaah",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Faedah Muharram",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/faedah-muharram",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Nasihat Ulama Salaf ‘Abdullah bin Mas’ud رَضِيَ ٱللَّٰهُ عَنْهُ",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/nasihat-ulama-salaf-abdullah-bin-masud",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Meraih Kelezatan Ibadah",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/meraih-kelezatan-ibadah",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Sepuluh Faedah Fiqih Shaum Syawwal dan Qadha Ramadhan",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/sepuluh-faedah-fiqih-shaum-syawwal-dan-qadha-ramadhan",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Lima Puluh Yang Pertama",
+      "categories": [
+        "Tarikh"
+      ],
+      "source": "https://ebooksunnah.com/tarikh/lima-puluh-yang-pertama",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Nasihat Ulama Salaf Al Imam Malik bin Anas rahimahullah",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/nasihat-ulama-salaf-al-imam-malik-bin-anas-rahimahullah",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Nasihat untuk Kaum Muslimin di Bulan Ramadhan",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/nasihat-untuk-kaum-muslimin-di-bulan-ramadhan",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Nasihat Ulama Salaf Al Imam Al Fudhail bin ‘Iyaadh rahimahullah",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/nasihat-ulama-salaf-al-imam-al-fudhail-bin-iyaadh-rahimahullah",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Memenuhi Hati Dengan Kecukupan",
+      "categories": [
+        "Akhlak"
+      ],
+      "source": "https://ebooksunnah.com/akhlak/memenuhi-hati-dengan-kecukupan",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Nasihat Ulama Salaf Al Imam Al Hasan Al Bashri rahimahullah",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/nasihat-ulama-salaf-al-imam-al-hasan-al-bashri-rahimahullah",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Tergesa-Gesa",
+      "categories": [
+        "Akhlak"
+      ],
+      "source": "https://ebooksunnah.com/akhlak/tergesa-gesa",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Tinggalkan Jejak Sebelum “Pergi”",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/tinggalkan-jejak-sebelum-pergi",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Dzikir dan Doa untuk Kesehatan Badan dan Perlindungan bagi Seorang Muslim",
+      "categories": [
+        "Dzikir & Do'a"
+      ],
+      "source": "https://ebooksunnah.com/dzikir-do-a/dzikir-dan-doa-untuk-kesehatan-badan-dan-perlindungan-bagi-seorang-muslim",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Menyelamatkan Hati",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/menyelamatkan-hati",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Panjang Angan (Suatu Penyakit yang Membinasakan)",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/panjang-angan-suatu-penyakit-yang-membinasakan",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Mutiara dari Kitab Ta'lim Al-Muta'allim",
+      "categories": [
+        "Tholabul Ilmi"
+      ],
+      "source": "https://ebooksunnah.com/tholabul-ilmi/mutiara-dari-kitab-talim-al-mutaallim",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Ringkasan Mudah tentang Keagungan Ilmu",
+      "categories": [
+        "Tholabul Ilmi"
+      ],
+      "source": "https://ebooksunnah.com/tholabul-ilmi/ringkasan-mudah-tentang-keagungan-ilmu",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
+    },
+    {
       "title": "Agar Jalanmu Tidak Kembali ke Belakang (Istiqamah di Atas Hijrah)",
       "categories": [
         "Dakwah"
@@ -1246,7 +1426,9 @@
       "categories": [
         "Akhlak"
       ],
-      "source": "https://ebooksunnah.com/akhlak/akhlak-akhlak-yang-mulia"
+      "source": "https://ebooksunnah.com/akhlak/akhlak-akhlak-yang-mulia",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4130,
@@ -1254,7 +1436,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/as-sunnah-ibnul-khallal"
+      "source": "https://ebooksunnah.com/aqidah/as-sunnah-ibnul-khallal",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4129,
@@ -1262,7 +1446,9 @@
       "categories": [
         "Hadits"
       ],
-      "source": "https://ebooksunnah.com/hadits/al-maudhuat-hadis-hadis-palsu"
+      "source": "https://ebooksunnah.com/hadits/al-maudhuat-hadis-hadis-palsu",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4128,
@@ -1270,7 +1456,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/prinsip-prinsip-dasar-ushul-fikih-menurut-ahlus-sunnah-wal-jamaah"
+      "source": "https://ebooksunnah.com/fiqih/prinsip-prinsip-dasar-ushul-fikih-menurut-ahlus-sunnah-wal-jamaah",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4127,
@@ -1278,7 +1466,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/penjelasan-tentang-pokok-pokok-agama-951sd7"
+      "source": "https://ebooksunnah.com/aqidah/penjelasan-tentang-pokok-pokok-agama-951sd7",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4126,
@@ -1286,7 +1476,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-musawwadah-dalam-ushul-fikih"
+      "source": "https://ebooksunnah.com/fiqih/al-musawwadah-dalam-ushul-fikih",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4125,
@@ -1295,7 +1487,9 @@
         "Muslimah & Keluarga",
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/mengapa-kalau-diselingkuhi-jilbab-ikut-dilepas-bukankah-yang-mengkhianatimu-manusia-bukan-allah-nasihat-untuk-muslimah-yang-sedang-terluka"
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/mengapa-kalau-diselingkuhi-jilbab-ikut-dilepas-bukankah-yang-mengkhianatimu-manusia-bukan-allah-nasihat-untuk-muslimah-yang-sedang-terluka",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4124,
@@ -1303,7 +1497,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/menasihati-pemimpin-atau-menghinanya-belajar-dari-dzul-khuwaishirah-dan-manhaj-salaf"
+      "source": "https://ebooksunnah.com/dakwah/menasihati-pemimpin-atau-menghinanya-belajar-dari-dzul-khuwaishirah-dan-manhaj-salaf",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4123,
@@ -1311,7 +1507,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/bidayatul-mujtahid-04"
+      "source": "https://ebooksunnah.com/fiqih/bidayatul-mujtahid-04",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4122,
@@ -1319,7 +1517,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/bidayatul-mujtahid-03"
+      "source": "https://ebooksunnah.com/fiqih/bidayatul-mujtahid-03",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4121,
@@ -1327,7 +1527,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/bidayatul-mujtahid-02"
+      "source": "https://ebooksunnah.com/fiqih/bidayatul-mujtahid-02",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4120,
@@ -1335,7 +1537,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/bidayatul-mujtahid-01"
+      "source": "https://ebooksunnah.com/fiqih/bidayatul-mujtahid-01",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4119,
@@ -1343,7 +1547,9 @@
       "categories": [
         "Akhlak"
       ],
-      "source": "https://ebooksunnah.com/akhlak/seni-merawat-persahabatan-8-pelajaran-akhlak-dalam-merawat-persahabatan"
+      "source": "https://ebooksunnah.com/akhlak/seni-merawat-persahabatan-8-pelajaran-akhlak-dalam-merawat-persahabatan",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4118,
@@ -1352,7 +1558,9 @@
         "Hadits",
         "Fadhilah"
       ],
-      "source": "https://ebooksunnah.com/hadits/arbain-keutamaan-hasan-dan-husain"
+      "source": "https://ebooksunnah.com/hadits/arbain-keutamaan-hasan-dan-husain",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4117,
@@ -1361,7 +1569,9 @@
         "Fiqih",
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/fiqih/kezholiman-dalam-jual-beli-dan-ragamnya-dalam-kehidupan-sehari-hari"
+      "source": "https://ebooksunnah.com/fiqih/kezholiman-dalam-jual-beli-dan-ragamnya-dalam-kehidupan-sehari-hari",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4116,
@@ -1369,7 +1579,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/umdatuth-thalib-li-nailil-maarib-dalam-fikih-mazhab-imam-ahmad-bin-muhammad-bin-hanbal"
+      "source": "https://ebooksunnah.com/fiqih/umdatuth-thalib-li-nailil-maarib-dalam-fikih-mazhab-imam-ahmad-bin-muhammad-bin-hanbal",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4115,
@@ -1377,7 +1589,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/maarijul-qabul-03-syarah-sullamil-wushul-ila-ilmil-ushul"
+      "source": "https://ebooksunnah.com/aqidah/maarijul-qabul-03-syarah-sullamil-wushul-ila-ilmil-ushul",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4114,
@@ -1385,7 +1599,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/maarijul-qabul-02-syarah-sullamil-wushul-ila-ilmil-ushul"
+      "source": "https://ebooksunnah.com/aqidah/maarijul-qabul-02-syarah-sullamil-wushul-ila-ilmil-ushul",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4113,
@@ -1393,7 +1609,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/maarijul-qabul-01-syarah-sullamil-wushul-ila-ilmil-ushul"
+      "source": "https://ebooksunnah.com/aqidah/maarijul-qabul-01-syarah-sullamil-wushul-ila-ilmil-ushul",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4112,
@@ -1401,7 +1619,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/dasar-akad-akad-muamalat"
+      "source": "https://ebooksunnah.com/fiqih/dasar-akad-akad-muamalat",
+      "checked_at": "2026-11-21",
+      "read_status": "not-found"
     },
     {
       "id": 4111,
@@ -34587,6 +34807,6 @@
       "source": "https://ebooksunnah.com/fiqih/e-book-ramadhan-bersama-nabi"
     }
   ],
-  "last_catalog_check": "2026-11-20",
-  "last_link_sync": "2026-11-20"
+  "last_catalog_check": "2026-11-21",
+  "last_link_sync": "2026-11-21"
 }
