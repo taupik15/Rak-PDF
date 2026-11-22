@@ -3,6 +3,186 @@
   "snapshot": "19 November 2026",
   "books": [
     {
+      "title": "Sifat Sifat Yahudi",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/sifat-sifat-yahudi",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Ajal Dan Rezeki",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/ajal-dan-rezeki",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Dikumpulkan Di Surga",
+      "categories": [
+        "Muslimah & Keluarga"
+      ],
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/dikumpulkan-di-surga",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Fiqih Makanan",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/fiqih-makanan-oxwol3",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Kita Memiliki Dunia Seisinya",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/kita-memiliki-dunia-seisinya",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Akhir Yang Buruk",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/akhir-yang-buruk",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "10 Manfaat Keimanan",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/10-manfaat-keimanan",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Sosok Pemuda Harapan",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/pemuda-harapan",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Jangan Sampai Kita Menyesal",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/jangan-sampai-kita-menyesal",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Bersama Siapakah Nanti Engkau",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/bersama-siapakah-nanti-engkau",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Wasiat Al Imam Sufyan Ats Tsauri رحمه الله",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/wasiat-al-imam-sufyan-ats-tsauri",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Ketika Usia Beranjak Senja",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/ketika-usia-beranjak-senja",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Matan Manzhummah Haaiyyah",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/matan-manzhummah-haaiyyah",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Kiat Hidup di Zaman “Susah”",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/kiat-hidup-di-zaman-susah",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Rambu Rambu Keimanan Bagi Pemimpin",
+      "categories": [
+        "Akhlak"
+      ],
+      "source": "https://ebooksunnah.com/akhlak/rambu-rambu-keimanan-bagi-pemimpin",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Jalan Keselamatan (Sabilun Najah)",
+      "categories": [
+        "Manhaj"
+      ],
+      "source": "https://ebooksunnah.com/manhaj/sabilun-najah",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Ciri Khas Akhwat Salafiyyah",
+      "categories": [
+        "Muslimah & Keluarga"
+      ],
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/ciri-khas-akhwat-salafiyyah",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Nasihat Ramadhan dari Al-Imam Ibnu Rajab",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/nasihat-ramadhan-dari-al-imam-ibnu-rajab",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Meninggalkan Majelis Ilmu di Bulan Ramadhan?",
+      "categories": [
+        "Tholabul Ilmi"
+      ],
+      "source": "https://ebooksunnah.com/tholabul-ilmi/meninggalkan-majelis-ilmu-di-bulan-ramadhan",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Risalah Ringkas tentang Keutamaan Umroh dan Faedah-Faedah yang Terkait dengannya",
+      "categories": [
+        "Fadhilah"
+      ],
+      "source": "https://ebooksunnah.com/fadhilah/risalah-ringkas-tentang-keutamaan-umroh-dan-faedah-faedah-yang-terkait-dengannya",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
+    },
+    {
       "title": "Ringkasan Tadzkiratus Sami' wal Mutakallim",
       "categories": [
         "Tholabul Ilmi"
@@ -1629,7 +1809,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/saat-malaikat-mendoakanmu"
+      "source": "https://ebooksunnah.com/dakwah/saat-malaikat-mendoakanmu",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4110,
@@ -1637,7 +1819,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/hukum-hukum-pemeluk-agama-lain-dan-kemurtadan"
+      "source": "https://ebooksunnah.com/aqidah/hukum-hukum-pemeluk-agama-lain-dan-kemurtadan",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4109,
@@ -1645,7 +1829,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/as-sunnah"
+      "source": "https://ebooksunnah.com/aqidah/as-sunnah",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4108,
@@ -1653,7 +1839,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/kemenangan-dalam-membantah-kaum-mutazilah-qadariyyah-yang-jahat"
+      "source": "https://ebooksunnah.com/aqidah/kemenangan-dalam-membantah-kaum-mutazilah-qadariyyah-yang-jahat",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4107,
@@ -1661,7 +1849,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/hukum-hukum-seputar-ahli-dzimmah"
+      "source": "https://ebooksunnah.com/fiqih/hukum-hukum-seputar-ahli-dzimmah",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4106,
@@ -1669,7 +1859,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/al-hujjah-hujah-dalam-menjelaskan-jalan-yang-terang-dan-uraian-tentang-akidah-ahlus-sunnah"
+      "source": "https://ebooksunnah.com/aqidah/al-hujjah-hujah-dalam-menjelaskan-jalan-yang-terang-dan-uraian-tentang-akidah-ahlus-sunnah",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4105,
@@ -1677,7 +1869,9 @@
       "categories": [
         "Tarikh"
       ],
-      "source": "https://ebooksunnah.com/tarikh/sejarah-ringkas-saudi-arabia-1157-h-1744-m-1438-h-2017-m"
+      "source": "https://ebooksunnah.com/tarikh/sejarah-ringkas-saudi-arabia-1157-h-1744-m-1438-h-2017-m",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4104,
@@ -1685,7 +1879,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/uzlah-dan-menyendiri"
+      "source": "https://ebooksunnah.com/dakwah/uzlah-dan-menyendiri",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4103,
@@ -1693,7 +1889,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/kitab-fitnah-fitnah"
+      "source": "https://ebooksunnah.com/aqidah/kitab-fitnah-fitnah",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4102,
@@ -1701,7 +1899,9 @@
       "categories": [
         "Tazkiyatun Nafs"
       ],
-      "source": "https://ebooksunnah.com/tazkiyatun-nafs/3-penyakit-hati-yang-merusak-persaudaraan"
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/3-penyakit-hati-yang-merusak-persaudaraan",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4101,
@@ -1709,7 +1909,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-15-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-15-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4100,
@@ -1717,7 +1919,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-14-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-14-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4099,
@@ -1725,7 +1929,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-13-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-13-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4098,
@@ -1733,7 +1939,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-12-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-12-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4097,
@@ -1741,7 +1949,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-11-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-11-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4096,
@@ -1749,7 +1959,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-10-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-10-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4095,
@@ -1757,7 +1969,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-09-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-09-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4094,
@@ -1765,7 +1979,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-08-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-08-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4093,
@@ -1773,7 +1989,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-07-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-07-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4092,
@@ -1781,7 +1999,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-06-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-06-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-22",
+      "read_status": "not-found"
     },
     {
       "id": 4091,
@@ -34807,6 +35027,6 @@
       "source": "https://ebooksunnah.com/fiqih/e-book-ramadhan-bersama-nabi"
     }
   ],
-  "last_catalog_check": "2026-11-21",
-  "last_link_sync": "2026-11-21"
+  "last_catalog_check": "2026-11-22",
+  "last_link_sync": "2026-11-22"
 }
