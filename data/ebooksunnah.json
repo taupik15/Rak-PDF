@@ -3,6 +3,51 @@
   "snapshot": "19 November 2026",
   "books": [
     {
+      "title": "Solusi Ketika Anak Tantrum",
+      "categories": [
+        "Muslimah & Keluarga"
+      ],
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/solusi-ketika-anak-tantrum",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Penjernih Pemahaman tentang Keutamaan Bershalawat kepada Muhammad",
+      "categories": [
+        "Fadhilah"
+      ],
+      "source": "https://ebooksunnah.com/fadhilah/penjernih-pemahaman-tentang-keutamaan-bershalawat-kepada-muhammad",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Bahas Bareng Soal Olimpiade SD",
+      "categories": [
+        "Anak"
+      ],
+      "source": "https://ebooksunnah.com/anak/bahas-bareng-soal-olimpiade-sd",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
+    },
+    {
+      "title": "The Green of My Land",
+      "categories": [
+        "Anak"
+      ],
+      "source": "https://ebooksunnah.com/anak/the-green-of-my-land",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Andai Fathimah Mencuri, Kupotong Tangannya! - Nasihat untuk Para Muhibbin atas Habaib",
+      "categories": [
+        "Akhlak"
+      ],
+      "source": "https://ebooksunnah.com/akhlak/andai-fathimah-mencuri-kupotong-tangannya-nasihat-untuk-para-muhibbin-atas-habaib",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
+    },
+    {
       "title": "Sifat Sifat Yahudi",
       "categories": [
         "Aqidah"
@@ -2009,7 +2054,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-05-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-05-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4090,
@@ -2017,7 +2064,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-04-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-04-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4089,
@@ -2025,7 +2074,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-03-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-03-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4088,
@@ -2033,7 +2084,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-02-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-02-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4087,
@@ -2041,7 +2094,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-01-atas-zaadul-mustaqni"
+      "source": "https://ebooksunnah.com/fiqih/al-syarhu-al-mumti-01-atas-zaadul-mustaqni",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4086,
@@ -2049,7 +2104,9 @@
       "categories": [
         "Biografi"
       ],
-      "source": "https://ebooksunnah.com/biografi/ibnu-taimiyah-di-mata-ulama-syafiiyah"
+      "source": "https://ebooksunnah.com/biografi/ibnu-taimiyah-di-mata-ulama-syafiiyah",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4085,
@@ -2057,7 +2114,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/lomba-dan-hadiah-yang-boleh-dan-terlarang"
+      "source": "https://ebooksunnah.com/fiqih/lomba-dan-hadiah-yang-boleh-dan-terlarang",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4084,
@@ -2065,7 +2124,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/ketika-anggota-tubuh-bersaksi"
+      "source": "https://ebooksunnah.com/dakwah/ketika-anggota-tubuh-bersaksi",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4083,
@@ -2073,7 +2134,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-cara-berhenti-merokok"
+      "source": "https://ebooksunnah.com/dakwah/3-cara-berhenti-merokok",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4082,
@@ -2081,7 +2144,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/ssst-cukup-allah-yang-tahu"
+      "source": "https://ebooksunnah.com/anak/ssst-cukup-allah-yang-tahu",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4081,
@@ -2089,7 +2154,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/kumpulan-berharga-tentang-hukum-berdoa-kepada-selain-rabb-semesta-alam"
+      "source": "https://ebooksunnah.com/aqidah/kumpulan-berharga-tentang-hukum-berdoa-kepada-selain-rabb-semesta-alam",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4080,
@@ -2097,7 +2164,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/asy-syariah"
+      "source": "https://ebooksunnah.com/aqidah/asy-syariah",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4079,
@@ -2105,7 +2174,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-prinsip-penting-dalam-mengikuti-sunnah"
+      "source": "https://ebooksunnah.com/dakwah/3-prinsip-penting-dalam-mengikuti-sunnah",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4078,
@@ -2113,7 +2184,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-kebiasaan-yang-mengundang-murka-allah"
+      "source": "https://ebooksunnah.com/dakwah/3-kebiasaan-yang-mengundang-murka-allah",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4077,
@@ -2121,7 +2194,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-hal-yang-akan-selalu-dirasakan-oleh-pecinta-dunia"
+      "source": "https://ebooksunnah.com/dakwah/3-hal-yang-akan-selalu-dirasakan-oleh-pecinta-dunia",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4076,
@@ -2129,7 +2204,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-wasiat-nabi-kepada-abu-hurairah"
+      "source": "https://ebooksunnah.com/dakwah/3-wasiat-nabi-kepada-abu-hurairah",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4075,
@@ -2137,7 +2214,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/bekal-bagi-orang-orang-yang-bersabar-dan-simpanan-bagi-orang-orang-yang-bersyukur"
+      "source": "https://ebooksunnah.com/dakwah/bekal-bagi-orang-orang-yang-bersabar-dan-simpanan-bagi-orang-orang-yang-bersyukur",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4074,
@@ -2145,7 +2224,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/kumpulan-artikel-dan-risalah-syekh-imam-muhammad-ath-thahir-ibnu-asyur-kritik-ilmiah-atas-kitab-al-islam-wa-ushul-al-hukm"
+      "source": "https://ebooksunnah.com/dakwah/kumpulan-artikel-dan-risalah-syekh-imam-muhammad-ath-thahir-ibnu-asyur-kritik-ilmiah-atas-kitab-al-islam-wa-ushul-al-hukm",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4073,
@@ -2153,7 +2234,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/ghoror-dalam-jual-beli-dan-30-contohnya-dalam-transaksi-sehari-hari"
+      "source": "https://ebooksunnah.com/fiqih/ghoror-dalam-jual-beli-dan-30-contohnya-dalam-transaksi-sehari-hari",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4072,
@@ -2161,7 +2244,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-hal-yang-bisa-menumbuhkan-kecintaan-saudara-seiman"
+      "source": "https://ebooksunnah.com/dakwah/3-hal-yang-bisa-menumbuhkan-kecintaan-saudara-seiman",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4071,
@@ -2169,7 +2254,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-golongan-manusia-yang-mendapat-jaminan-allah"
+      "source": "https://ebooksunnah.com/dakwah/3-golongan-manusia-yang-mendapat-jaminan-allah",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4070,
@@ -2177,7 +2264,9 @@
       "categories": [
         "Tazkiyatun Nafs"
       ],
-      "source": "https://ebooksunnah.com/tazkiyatun-nafs/3-sungai-untuk-mensucikan-diri-dari-dosa"
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/3-sungai-untuk-mensucikan-diri-dari-dosa",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4069,
@@ -2187,7 +2276,9 @@
         "Hadits",
         "Biografi"
       ],
-      "source": "https://ebooksunnah.com/dakwah/membela-kehormatan-syaikh-al-albani-muhaddits-abad-ini-kritik-ilmiah-terhadap-buku-syaikh-albani-di-antara-muhaddits-dan-bahitsul-hadits-karya-ustadz-adi-hidayat"
+      "source": "https://ebooksunnah.com/dakwah/membela-kehormatan-syaikh-al-albani-muhaddits-abad-ini-kritik-ilmiah-terhadap-buku-syaikh-albani-di-antara-muhaddits-dan-bahitsul-hadits-karya-ustadz-adi-hidayat",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4068,
@@ -2195,7 +2286,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/mahkota-ghumaisha-belajar-akhlak-mulia-mahkota-seorang-muslim"
+      "source": "https://ebooksunnah.com/anak/mahkota-ghumaisha-belajar-akhlak-mulia-mahkota-seorang-muslim",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4067,
@@ -2203,7 +2296,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-kriteria-manusia-yang-bisa-dijadikan-teman"
+      "source": "https://ebooksunnah.com/dakwah/3-kriteria-manusia-yang-bisa-dijadikan-teman",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4066,
@@ -2211,7 +2306,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/hamzah-si-kuat-yang-sebenarnya-belajar-menahan-marah"
+      "source": "https://ebooksunnah.com/anak/hamzah-si-kuat-yang-sebenarnya-belajar-menahan-marah",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4065,
@@ -2219,7 +2316,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/sisi-gelap-facebook-mengikis-aqidah-dan-moral-umat"
+      "source": "https://ebooksunnah.com/dakwah/sisi-gelap-facebook-mengikis-aqidah-dan-moral-umat",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4064,
@@ -2227,7 +2326,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-tingkatan-manusia-dalam-menjalankan-agamanya"
+      "source": "https://ebooksunnah.com/dakwah/3-tingkatan-manusia-dalam-menjalankan-agamanya",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4063,
@@ -2235,7 +2336,9 @@
       "categories": [
         "Tazkiyatun Nafs"
       ],
-      "source": "https://ebooksunnah.com/tazkiyatun-nafs/3-obat-kerasnya-hati"
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/3-obat-kerasnya-hati",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4062,
@@ -2243,7 +2346,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-candaan-yang-dianggap-serius"
+      "source": "https://ebooksunnah.com/dakwah/3-candaan-yang-dianggap-serius",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4061,
@@ -2251,7 +2356,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-prinsip-penting-dalam-pergaulan"
+      "source": "https://ebooksunnah.com/dakwah/3-prinsip-penting-dalam-pergaulan",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4060,
@@ -2259,7 +2366,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-tanda-orang-yang-hasad"
+      "source": "https://ebooksunnah.com/dakwah/3-tanda-orang-yang-hasad",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4059,
@@ -2267,7 +2376,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/jangan-marah-surga-menantimu"
+      "source": "https://ebooksunnah.com/dakwah/jangan-marah-surga-menantimu",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4058,
@@ -2276,7 +2387,9 @@
         "Tholabul Ilmi",
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/tholabul-ilmi/faedah-faedah-ilmu-dakwah-dari-kitab-al-muwaafaqaat"
+      "source": "https://ebooksunnah.com/tholabul-ilmi/faedah-faedah-ilmu-dakwah-dari-kitab-al-muwaafaqaat",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4057,
@@ -2284,7 +2397,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/memperbaiki-diri-tanpa-merasa-lebih-baik-dari-orang-lain"
+      "source": "https://ebooksunnah.com/dakwah/memperbaiki-diri-tanpa-merasa-lebih-baik-dari-orang-lain",
+      "checked_at": "2026-11-23",
+      "read_status": "not-found"
     },
     {
       "id": 4056,
@@ -35027,6 +35142,6 @@
       "source": "https://ebooksunnah.com/fiqih/e-book-ramadhan-bersama-nabi"
     }
   ],
-  "last_catalog_check": "2026-11-22",
-  "last_link_sync": "2026-11-22"
+  "last_catalog_check": "2026-11-23",
+  "last_link_sync": "2026-11-23"
 }
