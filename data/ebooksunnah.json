@@ -3,6 +3,186 @@
   "snapshot": "19 November 2026",
   "books": [
     {
+      "title": "Kiat Mengatasi Rasa Bosan Dalam Beribadah",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/kiat-mengatasi-rasa-bosan-dalam-beribadah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Faedah Mempelajari Sirah Nabawiyah",
+      "categories": [
+        "Sirah Nabawiyah"
+      ],
+      "source": "https://ebooksunnah.com/sirah-nabawiyah/faedah-mempelajari-sirah-nabawiyah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Memupuk Rasa Malu",
+      "categories": [
+        "Akhlak"
+      ],
+      "source": "https://ebooksunnah.com/akhlak/memupuk-rasa-malu",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Obat Resah Dan Gelisah",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/obat-resah-dan-gelisah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Mengambil Pelajaran Dari Kisah Wafatnya Abu Thalib",
+      "categories": [
+        "Sirah Nabawiyah"
+      ],
+      "source": "https://ebooksunnah.com/sirah-nabawiyah/mengambil-pelajaran-dari-kisah-wafatnya-abu-thalib",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Sebab Datangnya Pertolongan",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/sebab-datangnya-pertolongan",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Wasiat Jibril Kepada Rasulullah",
+      "categories": [
+        "Hadits"
+      ],
+      "source": "https://ebooksunnah.com/hadits/wasiat-jibril-kepada-rasulullah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Jangan Lalai",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/jangan-lalai",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Nikmat Hidayah",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/nikmat-hidayah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Balasan Sesuai Perbuatan",
+      "categories": [
+        "Akhlak"
+      ],
+      "source": "https://ebooksunnah.com/akhlak/balasan-sesuai-perbuatan",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Wanita Muslimah Di Hari Jumat",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/wanita-muslimah-di-hari-jumat",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Bahagia Melihat Orang Lain Bahagia",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/bahagia-melihat-orang-lain-bahagia",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Tafsir Ibnu 'Arabi terhadap Al-Qur'an: Hakikat dan Bahayanya",
+      "categories": [
+        "Al-Quran Al-Karim"
+      ],
+      "source": "https://ebooksunnah.com/al-quran-al-karim/tafsir-ibnu-arabi-terhadap-al-quran-hakikat-dan-bahayanya",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Orang-orang yang Saling Mencintai karena Allah",
+      "categories": [
+        "Hadits"
+      ],
+      "source": "https://ebooksunnah.com/hadits/orang-orang-yang-saling-mencintai-karena-allah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Al-Mughni 10 karya Ibnu Qudamah",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/al-mughni-10-karya-ibnu-qudamah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Al-Mughni 09 karya Ibnu Qudamah",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/al-mughni-09-karya-ibnu-qudamah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Al-Mughni 08 karya Ibnu Qudamah",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/al-mughni-08-karya-ibnu-qudamah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Al-Mughni 07 karya Ibnu Qudamah",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/al-mughni-07-karya-ibnu-qudamah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Al-Mughni 06 karya Ibnu Qudamah",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/al-mughni-06-karya-ibnu-qudamah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Al-Mughni 05 karya Ibnu Qudamah",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/al-mughni-05-karya-ibnu-qudamah",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
+    },
+    {
       "title": "Solusi Ketika Anak Tantrum",
       "categories": [
         "Muslimah & Keluarga"
@@ -2407,7 +2587,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/ketika-semangat-hijrah-mulai-memudar"
+      "source": "https://ebooksunnah.com/dakwah/ketika-semangat-hijrah-mulai-memudar",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4055,
@@ -2415,7 +2597,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/70-tahun-menjadi-sia-sia-hanya-karena-1-kalimat-saja"
+      "source": "https://ebooksunnah.com/dakwah/70-tahun-menjadi-sia-sia-hanya-karena-1-kalimat-saja",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4054,
@@ -2423,7 +2607,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/yusuf-terbangun-di-malam-hari"
+      "source": "https://ebooksunnah.com/anak/yusuf-terbangun-di-malam-hari",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4053,
@@ -2431,7 +2617,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/kiat-meraih-keberkahan-dalam-bekerja"
+      "source": "https://ebooksunnah.com/dakwah/kiat-meraih-keberkahan-dalam-bekerja",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4052,
@@ -2439,7 +2627,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/ahmad-and-the-prayer-for-rain-learning-the-istisqa-prayer-as-taught-by-the-prophet"
+      "source": "https://ebooksunnah.com/anak/ahmad-and-the-prayer-for-rain-learning-the-istisqa-prayer-as-taught-by-the-prophet",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4051,
@@ -2447,7 +2637,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/ahmad-dan-doa-minta-hujan-belajar-shalat-istisqa-sesuai-tuntunan-nabi"
+      "source": "https://ebooksunnah.com/anak/ahmad-dan-doa-minta-hujan-belajar-shalat-istisqa-sesuai-tuntunan-nabi",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4050,
@@ -2455,7 +2647,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/tersembunyi-lebih-baik"
+      "source": "https://ebooksunnah.com/dakwah/tersembunyi-lebih-baik",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4049,
@@ -2464,7 +2658,9 @@
         "Dakwah",
         "Dzikir & Do'a"
       ],
-      "source": "https://ebooksunnah.com/dakwah/bicara-seperlunya-berdoa-sepenuh-jiwa"
+      "source": "https://ebooksunnah.com/dakwah/bicara-seperlunya-berdoa-sepenuh-jiwa",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4048,
@@ -2472,7 +2668,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-manfaat-banyak-mengingat-kematian"
+      "source": "https://ebooksunnah.com/dakwah/3-manfaat-banyak-mengingat-kematian",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4047,
@@ -2480,7 +2678,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/hal-kecil-yang-berarti-belajar-menebar-kebaikan-dari-hal-hal-sederhana"
+      "source": "https://ebooksunnah.com/anak/hal-kecil-yang-berarti-belajar-menebar-kebaikan-dari-hal-hal-sederhana",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4046,
@@ -2488,7 +2688,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-perkara-yang-membuat-amal-menjadi-sia-sia"
+      "source": "https://ebooksunnah.com/dakwah/3-perkara-yang-membuat-amal-menjadi-sia-sia",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4045,
@@ -2496,7 +2698,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/950-tahun-lamanya-nabi-nuh-mendakwahkan-tauhid"
+      "source": "https://ebooksunnah.com/dakwah/950-tahun-lamanya-nabi-nuh-mendakwahkan-tauhid",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4044,
@@ -2504,7 +2708,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/penjelasan-matan-al-ghayah-wat-taqrib-karya-al-qadhi-ahmad-bin-al-hasan-bab-wudhu-najis"
+      "source": "https://ebooksunnah.com/fiqih/penjelasan-matan-al-ghayah-wat-taqrib-karya-al-qadhi-ahmad-bin-al-hasan-bab-wudhu-najis",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4043,
@@ -2512,7 +2718,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/kapan-hujan-turun"
+      "source": "https://ebooksunnah.com/anak/kapan-hujan-turun",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4042,
@@ -2520,7 +2728,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/kaidah-kaidah-praktis-memahami-fiqih-islami"
+      "source": "https://ebooksunnah.com/fiqih/kaidah-kaidah-praktis-memahami-fiqih-islami",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4041,
@@ -2529,7 +2739,9 @@
         "Hadits",
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/hadits/arbain-fiqih-muamalat"
+      "source": "https://ebooksunnah.com/hadits/arbain-fiqih-muamalat",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4040,
@@ -2537,7 +2749,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/hari-terbaik-dalam-hidupmu"
+      "source": "https://ebooksunnah.com/dakwah/hari-terbaik-dalam-hidupmu",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4039,
@@ -2545,7 +2759,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-05"
+      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-05",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4038,
@@ -2553,7 +2769,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-04"
+      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-04",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4037,
@@ -2561,7 +2779,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-03"
+      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-03",
+      "checked_at": "2026-11-24",
+      "read_status": "not-found"
     },
     {
       "id": 4036,
@@ -35142,6 +35362,6 @@
       "source": "https://ebooksunnah.com/fiqih/e-book-ramadhan-bersama-nabi"
     }
   ],
-  "last_catalog_check": "2026-11-23",
-  "last_link_sync": "2026-11-23"
+  "last_catalog_check": "2026-11-24",
+  "last_link_sync": "2026-11-24"
 }
