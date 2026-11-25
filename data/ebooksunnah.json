@@ -3,6 +3,114 @@
   "snapshot": "19 November 2026",
   "books": [
     {
+      "title": "Wanita Muslimah Dan Ilmu",
+      "categories": [
+        "Muslimah & Keluarga"
+      ],
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/wanita-muslimah-dan-ilmu",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Sabar Di Dalam Al-Qur'an",
+      "categories": [
+        "Al-Quran Al-Karim"
+      ],
+      "source": "https://ebooksunnah.com/al-quran-al-karim/sabar-di-dalam-al-quran",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Kaidah-Kaidah di dalam Bermuamalah dengan Dalil (10 Kaidah di dalam Memahami Dalil)",
+      "categories": [
+        "Manhaj"
+      ],
+      "source": "https://ebooksunnah.com/manhaj/kaidah-kaidah-di-dalam-bermuamalah-dengan-dalil-10-kaidah-di-dalam-memahami-dalil",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Muhasabah",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/muhasabah-zdxbhu",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Menghindari Popularitas",
+      "categories": [
+        "Akhlak"
+      ],
+      "source": "https://ebooksunnah.com/akhlak/menghindari-popularitas",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Sebab Sebab Yang Mendatangkan Kecintaan Allah",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/sebab-sebab-yang-mendatangkan-kecintaan-allah",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Untukmu Para Pedagang",
+      "categories": [
+        "Adab"
+      ],
+      "source": "https://ebooksunnah.com/adab/untukmu-para-pedagang",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Menggapai Keberkahan Hidup",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/menggapai-keberkahan-hidup",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Amar Ma'ruf Nahi Munkar",
+      "categories": [
+        "Manhaj"
+      ],
+      "source": "https://ebooksunnah.com/manhaj/amar-maruf-nahi-munkar-7aczn0",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Risalah Sujud Sahwi",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/risalah-sujud-sahwi-yyy6kp",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Aqidah Imam Al-Bukhori dalam Shohih Al-Bukhori",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/aqidah-imam-al-bukhori-dalam-shohih-al-bukhori",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Hati Anak Adam di Jari Ar-Rohman",
+      "categories": [
+        "Dzikir & Do'a"
+      ],
+      "source": "https://ebooksunnah.com/dzikir-do-a/hati-anak-adam-di-jari-ar-rohman",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
+    },
+    {
       "title": "Kiat Mengatasi Rasa Bosan Dalam Beribadah",
       "categories": [
         "Tazkiyatun Nafs"
@@ -2789,7 +2897,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-02"
+      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-02",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4035,
@@ -2797,7 +2907,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-01"
+      "source": "https://ebooksunnah.com/fiqih/al-muwafaqat-01",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4034,
@@ -2805,7 +2917,9 @@
       "categories": [
         "Hadits"
       ],
-      "source": "https://ebooksunnah.com/hadits/pemahaman-dan-implementasi-hadis-hadis-umum-jilid-pertama"
+      "source": "https://ebooksunnah.com/hadits/pemahaman-dan-implementasi-hadis-hadis-umum-jilid-pertama",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4033,
@@ -2813,7 +2927,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/istiqamah-itu-bukan-tentang-awal-yang-indah"
+      "source": "https://ebooksunnah.com/dakwah/istiqamah-itu-bukan-tentang-awal-yang-indah",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4032,
@@ -2821,7 +2937,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/jangan-kembali-kepada-kegelapan-setelah-mengenal-cahaya"
+      "source": "https://ebooksunnah.com/dakwah/jangan-kembali-kepada-kegelapan-setelah-mengenal-cahaya",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4031,
@@ -2829,7 +2947,9 @@
       "categories": [
         "Muslimah & Keluarga"
       ],
-      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/mendidik-anak-di-tengah-fitnah"
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/mendidik-anak-di-tengah-fitnah",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4030,
@@ -2837,7 +2957,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/tetap-berbuat-baik-belajar-sabar-dan-ikhlas-ketika-kebaikan-kita-tak-dihargai"
+      "source": "https://ebooksunnah.com/anak/tetap-berbuat-baik-belajar-sabar-dan-ikhlas-ketika-kebaikan-kita-tak-dihargai",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4029,
@@ -2845,7 +2967,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/terjemah-al-ushul-ats-tsalaatsah-mengenal-allah-mengenal-nabi-muhammad-dan-mengenal-agama-islam"
+      "source": "https://ebooksunnah.com/aqidah/terjemah-al-ushul-ats-tsalaatsah-mengenal-allah-mengenal-nabi-muhammad-dan-mengenal-agama-islam",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4028,
@@ -2853,7 +2977,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/dalam-naungan-allah"
+      "source": "https://ebooksunnah.com/dakwah/dalam-naungan-allah",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4027,
@@ -2861,7 +2987,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/aqidah-imam-asy-syafii-xkda3e"
+      "source": "https://ebooksunnah.com/aqidah/aqidah-imam-asy-syafii-xkda3e",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4026,
@@ -2869,7 +2997,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/10-kiat-menggapai-cinta-allah"
+      "source": "https://ebooksunnah.com/dakwah/10-kiat-menggapai-cinta-allah",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4025,
@@ -2877,7 +3007,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/kiat-kiat-selamat-dunia-akhirat"
+      "source": "https://ebooksunnah.com/dakwah/kiat-kiat-selamat-dunia-akhirat",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4024,
@@ -2885,7 +3017,9 @@
       "categories": [
         "Tazkiyatun Nafs"
       ],
-      "source": "https://ebooksunnah.com/tazkiyatun-nafs/10-kiat-meraih-kelapangan-hati"
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/10-kiat-meraih-kelapangan-hati",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4023,
@@ -2893,7 +3027,9 @@
       "categories": [
         "Tazkiyatun Nafs"
       ],
-      "source": "https://ebooksunnah.com/tazkiyatun-nafs/penyakit-hati-dan-obat-penawarnya"
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/penyakit-hati-dan-obat-penawarnya",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4022,
@@ -2902,7 +3038,9 @@
         "Adab",
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/adab/gontor-kiai-dan-adab-seorang-santri"
+      "source": "https://ebooksunnah.com/adab/gontor-kiai-dan-adab-seorang-santri",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4021,
@@ -2910,7 +3048,9 @@
       "categories": [
         "Dzikir & Do'a"
       ],
-      "source": "https://ebooksunnah.com/dzikir-do-a/kajian-tentang-al-baqiyat-ash-shalihat-tahlil-tasbih-tahmid-takbir"
+      "source": "https://ebooksunnah.com/dzikir-do-a/kajian-tentang-al-baqiyat-ash-shalihat-tahlil-tasbih-tahmid-takbir",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4020,
@@ -2918,7 +3058,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/jangan-bangga-dengan-amal-yang-belum-tentu-diterima"
+      "source": "https://ebooksunnah.com/dakwah/jangan-bangga-dengan-amal-yang-belum-tentu-diterima",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4019,
@@ -2926,7 +3068,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/masuk-surga-atau-neraka-karena-seekor-lalat"
+      "source": "https://ebooksunnah.com/anak/masuk-surga-atau-neraka-karena-seekor-lalat",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4018,
@@ -2934,7 +3078,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/seteguk-air-untuk-seekor-anjing"
+      "source": "https://ebooksunnah.com/anak/seteguk-air-untuk-seekor-anjing",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4017,
@@ -2942,7 +3088,9 @@
       "categories": [
         "Anak"
       ],
-      "source": "https://ebooksunnah.com/anak/teladan-dari-sahabat-bilal"
+      "source": "https://ebooksunnah.com/anak/teladan-dari-sahabat-bilal",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4016,
@@ -2950,7 +3098,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/ketika-allah-mengambil-apa-yang-paling-engkau-cintai"
+      "source": "https://ebooksunnah.com/dakwah/ketika-allah-mengambil-apa-yang-paling-engkau-cintai",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4015,
@@ -2958,7 +3108,9 @@
       "categories": [
         "Hadits"
       ],
-      "source": "https://ebooksunnah.com/hadits/muqaddimah-ibnu-ash-shalah-mengenal-jenis-jenis-ilmu-hadis"
+      "source": "https://ebooksunnah.com/hadits/muqaddimah-ibnu-ash-shalah-mengenal-jenis-jenis-ilmu-hadis",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4014,
@@ -2966,7 +3118,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/cara-cara-mengatasi-kemiskinan-pada-masa-kenabian-ahlush-shuffah-sebagai-contoh"
+      "source": "https://ebooksunnah.com/dakwah/cara-cara-mengatasi-kemiskinan-pada-masa-kenabian-ahlush-shuffah-sebagai-contoh",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4013,
@@ -2974,7 +3128,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/sifat-neraka"
+      "source": "https://ebooksunnah.com/aqidah/sifat-neraka",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4012,
@@ -2982,7 +3138,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/pedang-terhunus-untuk-membela-rasulullah-dari-orang-yang-mencelanya"
+      "source": "https://ebooksunnah.com/dakwah/pedang-terhunus-untuk-membela-rasulullah-dari-orang-yang-mencelanya",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4011,
@@ -2990,7 +3148,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/pedang-tajam-dalam-membantah-as-subki"
+      "source": "https://ebooksunnah.com/aqidah/pedang-tajam-dalam-membantah-as-subki",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4010,
@@ -2998,7 +3158,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/sifat-surga-dan-apa-yang-disiapkan-allah-untuk-penghuninya-dari-kenikmatan"
+      "source": "https://ebooksunnah.com/aqidah/sifat-surga-dan-apa-yang-disiapkan-allah-untuk-penghuninya-dari-kenikmatan",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4009,
@@ -3006,7 +3168,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/gambaran-gambaran-surga-oleh-abu-nuaim-al-ashbahani"
+      "source": "https://ebooksunnah.com/aqidah/gambaran-gambaran-surga-oleh-abu-nuaim-al-ashbahani",
+      "checked_at": "2026-11-25",
+      "read_status": "not-found"
     },
     {
       "id": 4008,
@@ -35362,6 +35526,6 @@
       "source": "https://ebooksunnah.com/fiqih/e-book-ramadhan-bersama-nabi"
     }
   ],
-  "last_catalog_check": "2026-11-24",
-  "last_link_sync": "2026-11-24"
+  "last_catalog_check": "2026-11-25",
+  "last_link_sync": "2026-11-25"
 }
