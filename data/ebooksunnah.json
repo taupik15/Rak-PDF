@@ -3,6 +3,186 @@
   "snapshot": "19 November 2026",
   "books": [
     {
+      "title": "Mengikuti Ketergelinciran Ulama",
+      "categories": [
+        "Manhaj"
+      ],
+      "source": "https://ebooksunnah.com/manhaj/mengikuti-ketergelinciran-ulama",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Keharmonisan Dalam Keluarga",
+      "categories": [
+        "Muslimah & Keluarga"
+      ],
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/keharmonisan-dalam-keluarga",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Sejarah Penetapan Penanggalan Tahun Hijriyah",
+      "categories": [
+        "Tarikh"
+      ],
+      "source": "https://ebooksunnah.com/tarikh/sejarah-penetapan-penanggalan-tahun-hijriyah",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Fiqih Lupa",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/fiqih-lupa",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Untukmu Yang Sedang Sakit",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/untukmu-yang-sedang-sakit",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Sebab-Sebab Kehinaan",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/sebab-sebab-kehinaan",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Dengan Sebab Apa Kita Bergembira?",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/dengan-sebab-apa-kita-bergembira",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "50 Faedah Dari Al Imam Ibnul Qayyim Rahimahullah Tentang Puasa",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/50-faedah-dari-al-imam-ibnul-qayyim-rahimahullah-tentang-puasa",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Aqidah Islam tentang Nabi Isa",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/aqidah-islam-tentang-nabi-isa",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Renungan Doa Lailatul Qadr",
+      "categories": [
+        "Dzikir & Do'a"
+      ],
+      "source": "https://ebooksunnah.com/dzikir-do-a/renungan-doa-lailatul-qadr",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Kisah Orang-Orang Cerdas",
+      "categories": [
+        "Tarikh"
+      ],
+      "source": "https://ebooksunnah.com/tarikh/kisah-orang-orang-cerdas",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Fathu Dzil Jalali wal Ikram: Syarah Bulughul Maram 06",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/fathu-dzil-jalali-wal-ikram-syarah-bulughul-maram-06",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Fathu Dzil Jalali wal Ikram: Syarah Bulughul Maram 05",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/fathu-dzil-jalali-wal-ikram-syarah-bulughul-maram-05",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Fathu Dzil Jalali wal Ikram: Syarah Bulughul Maram 04",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/fathu-dzil-jalali-wal-ikram-syarah-bulughul-maram-04",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Fathu Dzil Jalali wal Ikram: Syarah Bulughul Maram 03",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/fathu-dzil-jalali-wal-ikram-syarah-bulughul-maram-03",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Fathu Dzil Jalali wal Ikram: Syarah Bulughul Maram 02",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/fathu-dzil-jalali-wal-ikram-syarah-bulughul-maram-02",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Fathu Dzil Jalali wal Ikram: Syarah Bulughul Maram 01",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/fathu-dzil-jalali-wal-ikram-syarah-bulughul-maram-01",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "10 Wasiat Surat Al An'aam",
+      "categories": [
+        "Al-Quran Al-Karim"
+      ],
+      "source": "https://ebooksunnah.com/al-quran-al-karim/10-wasiat-surat-al-anaam",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Satu Tahun Lagi",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/satu-tahun-lagi",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Sutrah Di Dalam Shalat",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/sutrah-di-dalam-shalat",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
+    },
+    {
       "title": "Wanita Muslimah Dan Ilmu",
       "categories": [
         "Muslimah & Keluarga"
@@ -1250,7 +1430,7 @@
         "Muslimah & Keluarga"
       ],
       "source": "https://ebooksunnah.com/muslimah-dan-keluarga/untuk-suamiku",
-      "checked_at": "2026-11-19",
+      "checked_at": "2026-11-26",
       "read_status": "not-found"
     },
     {
@@ -3178,7 +3358,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/gambaran-surga"
+      "source": "https://ebooksunnah.com/aqidah/gambaran-surga",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 4007,
@@ -3186,7 +3368,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/menjaga-manusia-dari-bisikan-syekh-ahmad-zaini-dahlan"
+      "source": "https://ebooksunnah.com/dakwah/menjaga-manusia-dari-bisikan-syekh-ahmad-zaini-dahlan",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 4006,
@@ -3194,7 +3378,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/bantahan-terhadap-jahmiyah-oleh-ibnu-mandah"
+      "source": "https://ebooksunnah.com/aqidah/bantahan-terhadap-jahmiyah-oleh-ibnu-mandah",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 4005,
@@ -3202,7 +3388,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/perbedaan-dalam-lafaz-dan-bantahan-terhadap-jahmiyah-serta-musyabbihah"
+      "source": "https://ebooksunnah.com/aqidah/perbedaan-dalam-lafaz-dan-bantahan-terhadap-jahmiyah-serta-musyabbihah",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 4004,
@@ -3210,7 +3398,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/minhaj-ath-thalibin-pedoman-para-pelajar-dan-pegangan-para-mufti-dalam-fikih"
+      "source": "https://ebooksunnah.com/fiqih/minhaj-ath-thalibin-pedoman-para-pelajar-dan-pegangan-para-mufti-dalam-fikih",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 4003,
@@ -3218,7 +3408,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/al-uzlah-mengasingkan-diri"
+      "source": "https://ebooksunnah.com/dakwah/al-uzlah-mengasingkan-diri",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 4002,
@@ -3227,7 +3419,9 @@
         "Fatwa",
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fatwa/fatawa-ibnu-shalah-02"
+      "source": "https://ebooksunnah.com/fatwa/fatawa-ibnu-shalah-02",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 4001,
@@ -3236,7 +3430,9 @@
         "Fatwa",
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fatwa/fatawa-ibnu-shalah-01"
+      "source": "https://ebooksunnah.com/fatwa/fatawa-ibnu-shalah-01",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 4000,
@@ -3244,7 +3440,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-07"
+      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-07",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3999,
@@ -3252,7 +3450,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-06"
+      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-06",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3998,
@@ -3260,7 +3460,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-05"
+      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-05",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3997,
@@ -3268,7 +3470,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-04"
+      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-04",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3996,
@@ -3276,7 +3480,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-03"
+      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-03",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3995,
@@ -3284,7 +3490,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-02"
+      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-02",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3994,
@@ -3292,7 +3500,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-01"
+      "source": "https://ebooksunnah.com/fiqih/al-mushannaf-ibnu-abi-syaibah-jilid-01",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3993,
@@ -3300,7 +3510,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/mungkin-ini-teguran-terakhir-dari-allah"
+      "source": "https://ebooksunnah.com/dakwah/mungkin-ini-teguran-terakhir-dari-allah",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3992,
@@ -3308,7 +3520,9 @@
       "categories": [
         "Tarikh"
       ],
-      "source": "https://ebooksunnah.com/tarikh/tarikh-at-thabari-11-sejarah-para-rasul-dan-raja-raja"
+      "source": "https://ebooksunnah.com/tarikh/tarikh-at-thabari-11-sejarah-para-rasul-dan-raja-raja",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3991,
@@ -3316,7 +3530,9 @@
       "categories": [
         "Tarikh"
       ],
-      "source": "https://ebooksunnah.com/tarikh/tarikh-at-thabari-10-sejarah-para-rasul-dan-raja-raja"
+      "source": "https://ebooksunnah.com/tarikh/tarikh-at-thabari-10-sejarah-para-rasul-dan-raja-raja",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3990,
@@ -3324,7 +3540,9 @@
       "categories": [
         "Tarikh"
       ],
-      "source": "https://ebooksunnah.com/tarikh/tarikh-at-thabari-09-sejarah-para-rasul-dan-raja-raja"
+      "source": "https://ebooksunnah.com/tarikh/tarikh-at-thabari-09-sejarah-para-rasul-dan-raja-raja",
+      "checked_at": "2026-11-26",
+      "read_status": "not-found"
     },
     {
       "id": 3989,
@@ -35526,6 +35744,6 @@
       "source": "https://ebooksunnah.com/fiqih/e-book-ramadhan-bersama-nabi"
     }
   ],
-  "last_catalog_check": "2026-11-25",
-  "last_link_sync": "2026-11-25"
+  "last_catalog_check": "2026-11-26",
+  "last_link_sync": "2026-11-26"
 }
