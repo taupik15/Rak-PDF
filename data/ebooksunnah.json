@@ -3,6 +3,132 @@
   "snapshot": "19 November 2026",
   "books": [
     {
+      "title": "Misteri Tempat Kematian",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/misteri-tempat-kematian",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "17 Kaidah Logika dalam Pemikiran Ibnu Taimiyyah",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/17-kaidah-logika-dalam-pemikiran-ibnu-taimiyyah",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Ketika Dosa Sudah Tidak Lagi Terasa Sebagai Dosa",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/ketika-dosa-sudah-tidak-lagi-terasa-sebagai-dosa",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Hukum Melangsungkan Akad Nikah Di Masjid",
+      "categories": [
+        "Fiqih"
+      ],
+      "source": "https://ebooksunnah.com/fiqih/hukum-melangsungkan-akad-nikah-di-masjid",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Jangan Berlebihan",
+      "categories": [
+        "Akhlak"
+      ],
+      "source": "https://ebooksunnah.com/akhlak/jangan-berlebihan-rdcj3v",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Kaidah-Kaidah Dalam Berjihad",
+      "categories": [
+        "Manhaj"
+      ],
+      "source": "https://ebooksunnah.com/manhaj/kaidah-kaidah-dalam-berjihad",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Menangis Bersama Kaum Salaf",
+      "categories": [
+        "Tazkiyatun Nafs"
+      ],
+      "source": "https://ebooksunnah.com/tazkiyatun-nafs/menangis-bersama-kaum-salaf",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Kaidah Bermuamalah Dengan Ulil Amri",
+      "categories": [
+        "Aqidah"
+      ],
+      "source": "https://ebooksunnah.com/aqidah/kaidah-bermuamalah-dengan-pemimpin",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Gadget - Nikmat atau Adzab",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/gadget-nikmat-atau-adzab",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "100 Petuah Dari Empat Khalifah",
+      "categories": [
+        "Dakwah"
+      ],
+      "source": "https://ebooksunnah.com/dakwah/100-petuah-dari-empat-khalifah",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Mengambil Pelajaran Dari Perang Badar",
+      "categories": [
+        "Sirah Nabawiyah"
+      ],
+      "source": "https://ebooksunnah.com/sirah-nabawiyah/mengambil-pelajaran-dari-perang-badar",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "100 Kaidah Rumah Tangga Bahagia Dalam Islam",
+      "categories": [
+        "Muslimah & Keluarga"
+      ],
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/100-kaidah-rumah-tangga-bahagia-dalam-islam",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "7 Ayat, Lautan Faedah",
+      "categories": [
+        "Al-Quran Al-Karim"
+      ],
+      "source": "https://ebooksunnah.com/al-quran-al-karim/7-ayat-lautan-faedah",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
+      "title": "Bukan Termasuk Golongan Kami",
+      "categories": [
+        "Hadits"
+      ],
+      "source": "https://ebooksunnah.com/hadits/bukan-termasuk-golongan-kami",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
+    },
+    {
       "title": "Mengikuti Ketergelinciran Ulama",
       "categories": [
         "Manhaj"
@@ -3951,7 +4077,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/semangat-semakin-membara-di-usia-yang-tak-lagi-muda"
+      "source": "https://ebooksunnah.com/dakwah/semangat-semakin-membara-di-usia-yang-tak-lagi-muda",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3948,
@@ -3959,7 +4087,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/solusi-syariat-menyikapi-utang-dan-melunasinya"
+      "source": "https://ebooksunnah.com/dakwah/solusi-syariat-menyikapi-utang-dan-melunasinya",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3947,
@@ -3967,7 +4097,9 @@
       "categories": [
         "Khutbah"
       ],
-      "source": "https://ebooksunnah.com/khutbah/hidup-dan-mati-hanya-untuk-allah-semata"
+      "source": "https://ebooksunnah.com/khutbah/hidup-dan-mati-hanya-untuk-allah-semata",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3946,
@@ -3975,7 +4107,9 @@
       "categories": [
         "Muslimah & Keluarga"
       ],
-      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/3-perkara-yang-menghilangkan-keberkahan-rumah-tangga"
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/3-perkara-yang-menghilangkan-keberkahan-rumah-tangga",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3944,
@@ -3983,7 +4117,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/raihlah-semua-kebaikan-dengan-ketakwaan"
+      "source": "https://ebooksunnah.com/dakwah/raihlah-semua-kebaikan-dengan-ketakwaan",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3943,
@@ -3991,7 +4127,9 @@
       "categories": [
         "Fiqih"
       ],
-      "source": "https://ebooksunnah.com/fiqih/manhajus-salikin-metode-para-penempuh-jalan-dan-penjelasan-fikih-dalam-agama"
+      "source": "https://ebooksunnah.com/fiqih/manhajus-salikin-metode-para-penempuh-jalan-dan-penjelasan-fikih-dalam-agama",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3942,
@@ -3999,7 +4137,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-08"
+      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-08",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3941,
@@ -4007,7 +4147,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-07"
+      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-07",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3940,
@@ -4015,7 +4157,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-06"
+      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-06",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3939,
@@ -4023,7 +4167,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-05"
+      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-05",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3938,
@@ -4031,7 +4177,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-04"
+      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-04",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3937,
@@ -4039,7 +4187,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-03"
+      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-03",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3936,
@@ -4047,7 +4197,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-02"
+      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-02",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3935,
@@ -4055,7 +4207,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-01"
+      "source": "https://ebooksunnah.com/aqidah/minhajus-sunnah-nabawiyah-dalam-membantah-pemikiran-syiah-dan-qadariyah-01",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3934,
@@ -4063,7 +4217,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/3-bekal-penting-dalam-mengarungi-bahtera-kehidupan"
+      "source": "https://ebooksunnah.com/dakwah/3-bekal-penting-dalam-mengarungi-bahtera-kehidupan",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3933,
@@ -4071,7 +4227,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/manzhumah-al-baidha-fii-aqidatis-salaf-wa-najatil-khalaf-syair-al-baidha-syair-akidah-ahlussunnah-wal-jamaah"
+      "source": "https://ebooksunnah.com/dakwah/manzhumah-al-baidha-fii-aqidatis-salaf-wa-najatil-khalaf-syair-al-baidha-syair-akidah-ahlussunnah-wal-jamaah",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3932,
@@ -4079,7 +4237,9 @@
       "categories": [
         "Muslimah & Keluarga"
       ],
-      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/pendidikan-anak-tanggung-jawab-siapa"
+      "source": "https://ebooksunnah.com/muslimah-dan-keluarga/pendidikan-anak-tanggung-jawab-siapa",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3931,
@@ -4087,7 +4247,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/adakah-tempat-untuk-akhirat-di-hatimu"
+      "source": "https://ebooksunnah.com/dakwah/adakah-tempat-untuk-akhirat-di-hatimu",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3930,
@@ -4095,7 +4257,9 @@
       "categories": [
         "Tholabul Ilmi"
       ],
-      "source": "https://ebooksunnah.com/tholabul-ilmi/paham-bahasa-arab-belajar-tata-bahasa-arab-praktis-dengan-contoh-dari-ayat-dan-hadits"
+      "source": "https://ebooksunnah.com/tholabul-ilmi/paham-bahasa-arab-belajar-tata-bahasa-arab-praktis-dengan-contoh-dari-ayat-dan-hadits",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3929,
@@ -4103,7 +4267,9 @@
       "categories": [
         "Aqidah"
       ],
-      "source": "https://ebooksunnah.com/aqidah/kalimat-terakhir-menuju-surga"
+      "source": "https://ebooksunnah.com/aqidah/kalimat-terakhir-menuju-surga",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3928,
@@ -4112,7 +4278,9 @@
         "Tarikh",
         "Al-Quran Al-Karim"
       ],
-      "source": "https://ebooksunnah.com/tarikh/kisah-kisah-dalam-al-quran"
+      "source": "https://ebooksunnah.com/tarikh/kisah-kisah-dalam-al-quran",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3927,
@@ -4120,7 +4288,9 @@
       "categories": [
         "Tarikh"
       ],
-      "source": "https://ebooksunnah.com/tarikh/pelajaran-dan-hikmah-dari-kisah-kisah-nabi-yang-shahih"
+      "source": "https://ebooksunnah.com/tarikh/pelajaran-dan-hikmah-dari-kisah-kisah-nabi-yang-shahih",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3926,
@@ -4128,7 +4298,9 @@
       "categories": [
         "Akhlak"
       ],
-      "source": "https://ebooksunnah.com/akhlak/akhlak-mahkota-dari-segala-ilmu"
+      "source": "https://ebooksunnah.com/akhlak/akhlak-mahkota-dari-segala-ilmu",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3925,
@@ -4136,7 +4308,9 @@
       "categories": [
         "Khutbah"
       ],
-      "source": "https://ebooksunnah.com/khutbah/selalu-perbaiki-hatimu-jangan-biarkan-ia-rusak"
+      "source": "https://ebooksunnah.com/khutbah/selalu-perbaiki-hatimu-jangan-biarkan-ia-rusak",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3924,
@@ -4144,7 +4318,9 @@
       "categories": [
         "Khutbah"
       ],
-      "source": "https://ebooksunnah.com/khutbah/berjuanglah-untuk-selalu-ikhlash-dalam-beramal"
+      "source": "https://ebooksunnah.com/khutbah/berjuanglah-untuk-selalu-ikhlash-dalam-beramal",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3923,
@@ -4152,7 +4328,9 @@
       "categories": [
         "Dakwah"
       ],
-      "source": "https://ebooksunnah.com/dakwah/sesat-setelah-berpetunjuk-karena-gemar-berdebat"
+      "source": "https://ebooksunnah.com/dakwah/sesat-setelah-berpetunjuk-karena-gemar-berdebat",
+      "checked_at": "2026-11-28",
+      "read_status": "not-found"
     },
     {
       "id": 3922,
@@ -35824,6 +36002,6 @@
       "source": "https://ebooksunnah.com/fiqih/e-book-ramadhan-bersama-nabi"
     }
   ],
-  "last_catalog_check": "2026-11-27",
-  "last_link_sync": "2026-11-27"
+  "last_catalog_check": "2026-11-28",
+  "last_link_sync": "2026-11-28"
 }
